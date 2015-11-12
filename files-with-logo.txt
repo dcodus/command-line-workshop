@@ -1,0 +1,12 @@
+../workspace/src/assets/images/decodemtl-logo-white.png
+../workspace/src/assets/images/decodemtl-logo-black.png
+../workspace/dist-jekyll/assets/images/decodemtl-logo-white.png
+../workspace/dist-jekyll/assets/images/decodemtl-logo-black.png
+../workspace/bower_components/modernizr/media/Modernizr 2 Logo.png
+../workspace/bower_components/modernizr/media/Modernizr 2 Logo.pdf
+../workspace/bower_components/modernizr/media/Modernizr 2 Logo.eps
+../workspace/bower_components/modernizr/media/Modernizr 2 Logo.svg
+../workspace/bower_components/modernizr/media/Modernizr 2 Logo.ai
+../workspace/node_modules/grunt-sass/node_modules/node-sass/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/dist/assets/images/decodemtl-logo-white.png
+../workspace/dist/assets/images/decodemtl-logo-black.png
