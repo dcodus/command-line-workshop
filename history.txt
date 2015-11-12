@@ -1,0 +1,88 @@
+    1  git status
+    2  git checkout -b new-teacher
+    3  git status
+    4  git add src/about/index.html
+    5  git status
+    6  git commit -m "Changed the teacher in the About page to Codrin."
+    7  git status
+    8  git add src/web-development-full-time/index.html
+    9  git status
+   10  git commit
+   11  git status
+   12  git push origin new-teacher
+   13  git checkout master
+   14  git status
+   15  git checkout -b visual-changes
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit
+   20  git status
+   21  git push origin visual-changes
+   22  git checkout master
+   23  git status
+   24  git checkout -b new-program
+   25  git status
+   26  git add .
+   27  git commit -m "Changed the program name to Super-Full-Time. Changed the program length to 12 weeks. Lowered the price to 1,999."
+   28  git status
+   29  git push origin new-program
+   30  git checkout visual-changes
+   31  grunt build
+   32  npm install
+   33  grunt build
+   34  rm -r node_modules/
+   35  npm install
+   36  grunt built
+   37  git status
+   38  git checkout new-teacher
+   39  git status
+   40  npm install
+   41  grunt build
+   42  rm -r node_modules/
+   43  npm install
+   44  grunt build
+   45  gem install jekyll
+   46  grunt build
+   47  git status
+   48  cat .gitignore 
+   49  grunt build
+   50  git status
+   51  git add src/about/index.html
+   52  git status
+   53  git commit -m "Fixed spelling error"
+   54  git push origin new-teacher
+   55  git status
+   56  git add src/about/index.html
+   57  git commit -m "Final name change on About page"
+   58  git push origin new-teacher
+   59  git branch
+   60  git checkout visual-changes
+   61  grunt build
+   62  git branch
+   63  git checkout master
+   64  git branch
+   65  ls
+   66  git branch
+   67  git baranch
+   68  yes
+   69  cd ~
+   70  git clone git@github.com:dcodus/command-line-workshop.git
+   71  ls
+   72  cd command-line-workshop/
+   73  git checkout -b "cmd-history"
+   74  history
+   75  history > history.txt
+   76  ls
+   77  cat history.txt
+   78  git status
+   79  git add .
+   80  git commit -m "Outputed from history to history.txt"
+   81  git push origin cmd-history
+   82  cd ~
+   83  rm -rf command-line-workshop
+   84  ls
+   85  git clone git@github.com:dcodus/command-line-workshop.git
+   86  ls
+   87  git checkout -b cmd-history
+   88  history > history.txt
